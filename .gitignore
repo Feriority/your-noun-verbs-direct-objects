@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# nltk data files
+nltk_data/
